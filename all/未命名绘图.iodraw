@@ -622,6 +622,25 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gmQ5cmSYJRbBkQgOQ89o-1" value="查看团队列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="44" y="20" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="gmQ5cmSYJRbBkQgOQ89o-2" value="添加/编辑/删除团队" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="118" width="205" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="gmQ5cmSYJRbBkQgOQ89o-3" value="查看团队详细信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="28" y="217" width="189" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="gmQ5cmSYJRbBkQgOQ89o-4" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="gmQ5cmSYJRbBkQgOQ89o-1" target="gmQ5cmSYJRbBkQgOQ89o-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gmQ5cmSYJRbBkQgOQ89o-5" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gmQ5cmSYJRbBkQgOQ89o-2" target="gmQ5cmSYJRbBkQgOQ89o-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
