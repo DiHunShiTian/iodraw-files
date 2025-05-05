@@ -575,6 +575,45 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Dzs8mrqCGuj6WWP5BFWV-1" value="查看用户列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="108" y="20" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Dzs8mrqCGuj6WWP5BFWV-2" value="添加/编辑/删除用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="83" y="118" width="205" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Dzs8mrqCGuj6WWP5BFWV-3" value="分页查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="217" width="125" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Dzs8mrqCGuj6WWP5BFWV-4" value="查看用户详细信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="195" y="217" width="189" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Dzs8mrqCGuj6WWP5BFWV-5" value="查看用户订单/评价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="191" y="315" width="197" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Dzs8mrqCGuj6WWP5BFWV-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Dzs8mrqCGuj6WWP5BFWV-1" target="Dzs8mrqCGuj6WWP5BFWV-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dzs8mrqCGuj6WWP5BFWV-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Dzs8mrqCGuj6WWP5BFWV-2" target="Dzs8mrqCGuj6WWP5BFWV-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="82" y="192" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dzs8mrqCGuj6WWP5BFWV-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Dzs8mrqCGuj6WWP5BFWV-2" target="Dzs8mrqCGuj6WWP5BFWV-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="289" y="192" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dzs8mrqCGuj6WWP5BFWV-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Dzs8mrqCGuj6WWP5BFWV-4" target="Dzs8mrqCGuj6WWP5BFWV-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
